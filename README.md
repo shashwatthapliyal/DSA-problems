@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shashwatthapliyal/DSA-problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/shashwatthapliyal/DSA-problems/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -25,4 +26,9 @@
 |  |
 | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shashwatthapliyal/DSA-problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/shashwatthapliyal/DSA-problems/tree/master/2567-minimum-score-by-changing-two-elements) |
+## Greedy
+|  |
+| ------- |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/shashwatthapliyal/DSA-problems/tree/master/2567-minimum-score-by-changing-two-elements) |
 <!---LeetCode Topics End-->
