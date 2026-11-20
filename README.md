@@ -4,6 +4,7 @@
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/shashwatthapliyal/DSA-problems/tree/master/0058-length-of-last-word) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/shashwatthapliyal/DSA-problems/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Simulation
 |  |
