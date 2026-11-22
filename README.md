@@ -14,6 +14,7 @@
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/shashwatthapliyal/DSA-problems/tree/master/0066-plus-one) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shashwatthapliyal/DSA-problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/shashwatthapliyal/DSA-problems/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/shashwatthapliyal/DSA-problems/tree/master/3331-find-subtree-sizes-after-changes) |
@@ -46,4 +47,8 @@
 |  |
 | ------- |
 | [3331-find-subtree-sizes-after-changes](https://github.com/shashwatthapliyal/DSA-problems/tree/master/3331-find-subtree-sizes-after-changes) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/shashwatthapliyal/DSA-problems/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
