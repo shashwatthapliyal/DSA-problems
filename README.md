@@ -21,6 +21,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/shashwatthapliyal/DSA-problems/tree/master/0202-happy-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shashwatthapliyal/DSA-problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Binary Search
 |  |
@@ -38,6 +39,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/shashwatthapliyal/DSA-problems/tree/master/0202-happy-number) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/shashwatthapliyal/DSA-problems/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Tree
 |  |
@@ -51,4 +53,9 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/shashwatthapliyal/DSA-problems/tree/master/0066-plus-one) |
+| [0202-happy-number](https://github.com/shashwatthapliyal/DSA-problems/tree/master/0202-happy-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/shashwatthapliyal/DSA-problems/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
