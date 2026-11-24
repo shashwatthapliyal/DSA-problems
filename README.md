@@ -14,6 +14,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/shashwatthapliyal/DSA-problems/tree/master/0015-3sum) |
 | [0066-plus-one](https://github.com/shashwatthapliyal/DSA-problems/tree/master/0066-plus-one) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shashwatthapliyal/DSA-problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/shashwatthapliyal/DSA-problems/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -21,6 +22,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/shashwatthapliyal/DSA-problems/tree/master/0015-3sum) |
 | [0202-happy-number](https://github.com/shashwatthapliyal/DSA-problems/tree/master/0202-happy-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shashwatthapliyal/DSA-problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Binary Search
@@ -30,6 +32,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/shashwatthapliyal/DSA-problems/tree/master/0015-3sum) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shashwatthapliyal/DSA-problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/shashwatthapliyal/DSA-problems/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Greedy
