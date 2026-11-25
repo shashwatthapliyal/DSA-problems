@@ -17,6 +17,7 @@
 | ------- |
 | [0015-3sum](https://github.com/shashwatthapliyal/DSA-problems/tree/master/0015-3sum) |
 | [0066-plus-one](https://github.com/shashwatthapliyal/DSA-problems/tree/master/0066-plus-one) |
+| [0704-binary-search](https://github.com/shashwatthapliyal/DSA-problems/tree/master/0704-binary-search) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shashwatthapliyal/DSA-problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/shashwatthapliyal/DSA-problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1854-maximum-population-year](https://github.com/shashwatthapliyal/DSA-problems/tree/master/1854-maximum-population-year) |
@@ -31,6 +32,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/shashwatthapliyal/DSA-problems/tree/master/0704-binary-search) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shashwatthapliyal/DSA-problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Sorting
 |  |
