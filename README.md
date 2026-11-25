@@ -17,6 +17,7 @@
 | ------- |
 | [0015-3sum](https://github.com/shashwatthapliyal/DSA-problems/tree/master/0015-3sum) |
 | [0066-plus-one](https://github.com/shashwatthapliyal/DSA-problems/tree/master/0066-plus-one) |
+| [0274-h-index](https://github.com/shashwatthapliyal/DSA-problems/tree/master/0274-h-index) |
 | [0704-binary-search](https://github.com/shashwatthapliyal/DSA-problems/tree/master/0704-binary-search) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shashwatthapliyal/DSA-problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/shashwatthapliyal/DSA-problems/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -38,6 +39,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/shashwatthapliyal/DSA-problems/tree/master/0015-3sum) |
+| [0274-h-index](https://github.com/shashwatthapliyal/DSA-problems/tree/master/0274-h-index) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shashwatthapliyal/DSA-problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/shashwatthapliyal/DSA-problems/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Greedy
@@ -83,4 +85,8 @@
 |  |
 | ------- |
 | [1854-maximum-population-year](https://github.com/shashwatthapliyal/DSA-problems/tree/master/1854-maximum-population-year) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/shashwatthapliyal/DSA-problems/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
