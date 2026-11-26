@@ -20,6 +20,7 @@
 | [0204-count-primes](https://github.com/shashwatthapliyal/DSA-problems/tree/master/0204-count-primes) |
 | [0274-h-index](https://github.com/shashwatthapliyal/DSA-problems/tree/master/0274-h-index) |
 | [0704-binary-search](https://github.com/shashwatthapliyal/DSA-problems/tree/master/0704-binary-search) |
+| [0812-largest-triangle-area](https://github.com/shashwatthapliyal/DSA-problems/tree/master/0812-largest-triangle-area) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shashwatthapliyal/DSA-problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/shashwatthapliyal/DSA-problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1854-maximum-population-year](https://github.com/shashwatthapliyal/DSA-problems/tree/master/1854-maximum-population-year) |
@@ -67,6 +68,7 @@
 | [0202-happy-number](https://github.com/shashwatthapliyal/DSA-problems/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/shashwatthapliyal/DSA-problems/tree/master/0204-count-primes) |
 | [0507-perfect-number](https://github.com/shashwatthapliyal/DSA-problems/tree/master/0507-perfect-number) |
+| [0812-largest-triangle-area](https://github.com/shashwatthapliyal/DSA-problems/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/shashwatthapliyal/DSA-problems/tree/master/0836-rectangle-overlap) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/shashwatthapliyal/DSA-problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Floyd's Cycle Finding Algorithm
@@ -96,6 +98,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0812-largest-triangle-area](https://github.com/shashwatthapliyal/DSA-problems/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/shashwatthapliyal/DSA-problems/tree/master/0836-rectangle-overlap) |
 ## Enumeration
 |  |
@@ -117,4 +120,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/shashwatthapliyal/DSA-problems/tree/master/0204-count-primes) |
+## Polygons
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/shashwatthapliyal/DSA-problems/tree/master/0812-largest-triangle-area) |
 <!---LeetCode Topics End-->
