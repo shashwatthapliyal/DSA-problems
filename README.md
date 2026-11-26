@@ -24,6 +24,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shashwatthapliyal/DSA-problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/shashwatthapliyal/DSA-problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1854-maximum-population-year](https://github.com/shashwatthapliyal/DSA-problems/tree/master/1854-maximum-population-year) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/shashwatthapliyal/DSA-problems/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/shashwatthapliyal/DSA-problems/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/shashwatthapliyal/DSA-problems/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Two Pointers
@@ -37,6 +38,7 @@
 | ------- |
 | [0704-binary-search](https://github.com/shashwatthapliyal/DSA-problems/tree/master/0704-binary-search) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shashwatthapliyal/DSA-problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/shashwatthapliyal/DSA-problems/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Sorting
 |  |
 | ------- |
