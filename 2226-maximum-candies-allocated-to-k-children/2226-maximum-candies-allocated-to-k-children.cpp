@@ -16,7 +16,6 @@ public:
 
     int maximumCandies(vector<int>& candies, long long k) {
 
-        
         int low = 1;
         int high = *max_element(candies.begin(), candies.end());
 
