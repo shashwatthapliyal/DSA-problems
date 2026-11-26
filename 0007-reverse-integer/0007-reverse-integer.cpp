@@ -7,7 +7,6 @@ public:
         bool flag = false;
         if (num[0] == '-') {
             d = 1;
-            flag = true;
         }
         std::reverse(num.begin() + d, num.end());
 
