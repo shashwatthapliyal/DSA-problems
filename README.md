@@ -65,6 +65,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/shashwatthapliyal/DSA-problems/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/shashwatthapliyal/DSA-problems/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/shashwatthapliyal/DSA-problems/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/shashwatthapliyal/DSA-problems/tree/master/0204-count-primes) |
