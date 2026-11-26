@@ -64,6 +64,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/shashwatthapliyal/DSA-problems/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/shashwatthapliyal/DSA-problems/tree/master/0202-happy-number) |
+| [0836-rectangle-overlap](https://github.com/shashwatthapliyal/DSA-problems/tree/master/0836-rectangle-overlap) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/shashwatthapliyal/DSA-problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -89,4 +90,8 @@
 |  |
 | ------- |
 | [0274-h-index](https://github.com/shashwatthapliyal/DSA-problems/tree/master/0274-h-index) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/shashwatthapliyal/DSA-problems/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
