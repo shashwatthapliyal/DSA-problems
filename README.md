@@ -17,6 +17,7 @@
 | ------- |
 | [0015-3sum](https://github.com/shashwatthapliyal/DSA-problems/tree/master/0015-3sum) |
 | [0066-plus-one](https://github.com/shashwatthapliyal/DSA-problems/tree/master/0066-plus-one) |
+| [0204-count-primes](https://github.com/shashwatthapliyal/DSA-problems/tree/master/0204-count-primes) |
 | [0274-h-index](https://github.com/shashwatthapliyal/DSA-problems/tree/master/0274-h-index) |
 | [0704-binary-search](https://github.com/shashwatthapliyal/DSA-problems/tree/master/0704-binary-search) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shashwatthapliyal/DSA-problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -64,6 +65,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/shashwatthapliyal/DSA-problems/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/shashwatthapliyal/DSA-problems/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/shashwatthapliyal/DSA-problems/tree/master/0204-count-primes) |
 | [0507-perfect-number](https://github.com/shashwatthapliyal/DSA-problems/tree/master/0507-perfect-number) |
 | [0836-rectangle-overlap](https://github.com/shashwatthapliyal/DSA-problems/tree/master/0836-rectangle-overlap) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/shashwatthapliyal/DSA-problems/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -95,4 +97,24 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/shashwatthapliyal/DSA-problems/tree/master/0836-rectangle-overlap) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/shashwatthapliyal/DSA-problems/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/shashwatthapliyal/DSA-problems/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/shashwatthapliyal/DSA-problems/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/shashwatthapliyal/DSA-problems/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/shashwatthapliyal/DSA-problems/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
