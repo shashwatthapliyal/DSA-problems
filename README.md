@@ -47,6 +47,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0738-monotone-increasing-digits](https://github.com/shashwatthapliyal/DSA-problems/tree/master/0738-monotone-increasing-digits) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/shashwatthapliyal/DSA-problems/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Hash Table
 |  |
@@ -68,6 +69,7 @@
 | [0202-happy-number](https://github.com/shashwatthapliyal/DSA-problems/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/shashwatthapliyal/DSA-problems/tree/master/0204-count-primes) |
 | [0507-perfect-number](https://github.com/shashwatthapliyal/DSA-problems/tree/master/0507-perfect-number) |
+| [0738-monotone-increasing-digits](https://github.com/shashwatthapliyal/DSA-problems/tree/master/0738-monotone-increasing-digits) |
 | [0812-largest-triangle-area](https://github.com/shashwatthapliyal/DSA-problems/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/shashwatthapliyal/DSA-problems/tree/master/0836-rectangle-overlap) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/shashwatthapliyal/DSA-problems/tree/master/1823-find-the-winner-of-the-circular-game) |
