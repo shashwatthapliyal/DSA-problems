@@ -4,6 +4,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shashwatthapliyal/DSA-problems/tree/master/0005-longest-palindromic-substring) |
 | [0058-length-of-last-word](https://github.com/shashwatthapliyal/DSA-problems/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/shashwatthapliyal/DSA-problems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/shashwatthapliyal/DSA-problems/tree/master/0242-valid-anagram) |
@@ -33,6 +34,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shashwatthapliyal/DSA-problems/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/shashwatthapliyal/DSA-problems/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/shashwatthapliyal/DSA-problems/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/shashwatthapliyal/DSA-problems/tree/master/0202-happy-number) |
@@ -136,4 +138,12 @@
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/shashwatthapliyal/DSA-problems/tree/master/0812-largest-triangle-area) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/shashwatthapliyal/DSA-problems/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/shashwatthapliyal/DSA-problems/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
