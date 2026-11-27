@@ -6,6 +6,7 @@
 | ------- |
 | [0058-length-of-last-word](https://github.com/shashwatthapliyal/DSA-problems/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/shashwatthapliyal/DSA-problems/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/shashwatthapliyal/DSA-problems/tree/master/0242-valid-anagram) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/shashwatthapliyal/DSA-problems/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/shashwatthapliyal/DSA-problems/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Simulation
@@ -45,6 +46,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/shashwatthapliyal/DSA-problems/tree/master/0015-3sum) |
+| [0242-valid-anagram](https://github.com/shashwatthapliyal/DSA-problems/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/shashwatthapliyal/DSA-problems/tree/master/0274-h-index) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shashwatthapliyal/DSA-problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/shashwatthapliyal/DSA-problems/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -57,6 +59,7 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/shashwatthapliyal/DSA-problems/tree/master/0202-happy-number) |
+| [0242-valid-anagram](https://github.com/shashwatthapliyal/DSA-problems/tree/master/0242-valid-anagram) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/shashwatthapliyal/DSA-problems/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Tree
 |  |
