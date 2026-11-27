@@ -9,6 +9,7 @@
 | [0125-valid-palindrome](https://github.com/shashwatthapliyal/DSA-problems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/shashwatthapliyal/DSA-problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shashwatthapliyal/DSA-problems/tree/master/0344-reverse-string) |
+| [0459-repeated-substring-pattern](https://github.com/shashwatthapliyal/DSA-problems/tree/master/0459-repeated-substring-pattern) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/shashwatthapliyal/DSA-problems/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/shashwatthapliyal/DSA-problems/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Simulation
@@ -146,4 +147,16 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shashwatthapliyal/DSA-problems/tree/master/0005-longest-palindromic-substring) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/shashwatthapliyal/DSA-problems/tree/master/0459-repeated-substring-pattern) |
+## Z Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/shashwatthapliyal/DSA-problems/tree/master/0459-repeated-substring-pattern) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/shashwatthapliyal/DSA-problems/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
